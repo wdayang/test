@@ -5,14 +5,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="my_test_pip_cv",  # ??????????
+    name="my_test_pip_cv3",  # ??????????
     version="1.0",
     author="lzw",
-    author_email="your email@qq.com",
+    author_email="wday.wong@gmail.com",
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Faner227/PIPTEST",
+    url="https://github.com/wdayang/test",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
